@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 pymongo
 scikit-learn
-=======
-scikit-learn
->>>>>>> c387244c2989437aecc467d40d0db90eceaea1a7
